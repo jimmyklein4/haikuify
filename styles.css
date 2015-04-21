@@ -1,0 +1,32 @@
+body {
+    background-image: url("background2.jpg");
+}
+
+h1 {
+    font-weight:normal;
+}
+
+#titletext {
+    text-align: center;
+    font-family: "American Typewriter"  ,sans-serif;
+    font-size: 45px;
+    color: #F0F0F0;
+  /*  color:#333333;*/
+    padding-top:110px;
+}
+
+#submit {
+    /*line-height:100%;
+    margin-left:32%;
+    margin-right:32%;*/
+    color:white;
+
+    padding-bottom:20px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+input[type="text"]{
+    font-size:20px;
+}
